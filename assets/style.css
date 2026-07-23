@@ -258,3 +258,13 @@ h1.big em { font-style:normal; color:#4d8dff; }
   .listrow .side { text-align:start; }
   .btnrow .btn { flex:1; }
 }
+
+/* ---------- Language selector (51 languages) ---------- */
+.langsel {
+  background:rgba(15,23,42,.6); border:1px solid rgba(255,255,255,.3); color:#c3cfe0;
+  font-family:inherit; font-size:11.5px; font-weight:700; letter-spacing:.5px;
+  padding:7px 9px; cursor:pointer; max-width:130px;
+}
+.langsel:hover { color:#fff; border-color:rgba(255,255,255,.55); }
+.langsel option { background:#0F172A; color:#e6edf7; }
+[dir="rtl"] .sitenav a.cur { border-block-end:2px solid var(--imild); }
