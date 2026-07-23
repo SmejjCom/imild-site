@@ -21,12 +21,12 @@
     'footer.imprint': 'Imprint',
     'footer.privacy': 'Privacy',
     'footer.copy': '© 2026 iMild LLC · Oakland, CA · 51 languages 🌍',
-    'brand.byline': 'an <b>iMild</b> company ↗',
+    'brand.byline': 'an <b>iMild.com</b> company ↗',
 
     /* --- home --- */
     'home.stamp': 'Est. 2026 · Silicon Valley',
     'home.h1': 'Three products.<br><em>One vision.</em>',
-    'home.lead': 'iMild builds technology that connects people, develops software autonomously and makes knowledge immortal — in 51 languages, for the whole world.',
+    'home.lead': 'iMild.com builds technology that connects people, develops software autonomously and makes knowledge immortal — in 51 languages, for the whole world.',
     'home.cta1': 'Discover our brands',
     'home.cta2': 'Who we are',
     'home.conax.tag': 'Social Networking',
@@ -42,7 +42,7 @@
     /* --- about --- */
     'about.stamp': 'Our mission',
     'about.h1': 'Technology that<br><em>belongs to everyone.</em>',
-    'about.lead': 'iMild was founded on a simple conviction: great technology does not need big corporate structures — it needs clear ideas, automation and honesty.',
+    'about.lead': 'iMild.com was founded on a simple conviction: great technology does not need big corporate structures — it needs clear ideas, automation and honesty.',
     'about.f1.t': 'Global from day 1',
     'about.f1.p': 'Every product speaks 51 languages — automatically translated, RTL included. No market is "coming later".',
     'about.f2.t': 'Autopilot principle',
@@ -50,15 +50,15 @@
     'about.f3.t': 'Radical transparency',
     'about.f3.p': 'Open algorithms, clear rules, no black box. Users see why they see what they see.',
     'about.tl.k': 'The journey',
-    'about.tl.1': 'iMild is founded — umbrella brand &amp; foundation (monorepo, 51 languages, zero-cost architecture)',
+    'about.tl.1': 'iMild.com is founded — umbrella brand &amp; foundation (monorepo, 51 languages, zero-cost architecture)',
     'about.tl.2': 'con.ax launches as the first product — social networking with maps',
     'about.tl.3': 'smejj 1.0 — our own AI model enters the verification pipeline',
     'about.tl.4': 'smyst opens its beta — the first 1,000 digital twins',
 
     /* --- brands --- */
-    'brands.stamp': 'The iMild family',
+    'brands.stamp': 'The iMild.com family',
     'brands.h1': 'Our <em>brands.</em>',
-    'brands.lead': 'Three independent products, one shared foundation: shared infrastructure, one login, one design system — and the iMild values.',
+    'brands.lead': 'Three independent products, one shared foundation: shared infrastructure, one login, one design system — and the iMild.com values.',
     'brands.conax.tag': 'Social Networking',
     'brands.conax.p': 'The global social media platform — designed as an honest alternative to established networks. At its heart are <b style="color:#c9aef7;">interactive maps</b>: users, places and content linked geographically. You see what is happening around you — and on the other side of the world.',
     'brands.cta': 'Visit landing page →',
@@ -81,7 +81,7 @@
     'news.3.t': 'smyst: 1,000 families preserve their knowledge as digital twins',
     'news.3.p': 'The beta shows: AI twins are used above all for memories and family history.',
     'news.3.d': 'July 2, 2026',
-    'news.4.t': 'iMild unveils zero-cost architecture: world platforms without cloud bills',
+    'news.4.t': 'iMild.com unveils zero-cost architecture: world platforms without cloud bills',
     'news.4.p': 'Edge network, S3 storage and decentralised GPU computing — the technical foundation of all three brands.',
     'news.4.d': 'June 18, 2026',
     'news.press': 'Press contact: <b style="color:#6db5ff;">presse@imild.com</b> · Press kit &amp; logos for download',
@@ -91,7 +91,7 @@
     'jobs.stamp': 'We are hiring',
     'jobs.h1': 'Build the future.<br><em>With us.</em>',
     'jobs.lead': 'Small, remote-first, worldwide. We are looking for people who would rather automate than administrate — and who consider 51 languages a matter of course.',
-    'jobs.1.p': 'Remote · iMild Platform Team · Monorepo, PostgreSQL, Edge',
+    'jobs.1.p': 'Remote · iMild.com Platform Team · Monorepo, PostgreSQL, Edge',
     'jobs.2.p': 'Remote · con.ax · Interactive maps, geodata, clustering',
     'jobs.3.p': 'Remote · smejj · Own coding model, verification pipeline',
     'jobs.4.p': 'Remote · smyst · Personal data, encryption, twins',
@@ -131,7 +131,7 @@
     'legal.f2.t': 'Privacy',
     'legal.f2.p': 'GDPR &amp; CCPA compliant. Data minimisation as a principle: we store what is necessary — not what is possible.',
     'legal.f3.t': 'Terms of Service',
-    'legal.f3.p': 'Valid for all iMild services: con.ax, smejj.com and smyst.com. One sign-up, one set of rules.',
+    'legal.f3.p': 'Valid for all iMild.com services: con.ax, smejj.com and smyst.com. One sign-up, one set of rules.',
     'legal.marks': '<b style="color:#6db5ff;">Trademarks &amp; rights:</b> iMild®, con.ax™, smejj™ and smyst™ are trademarks of iMild LLC — filed with USPTO &amp; EUIPO. DMCA notices to <b>i@imild.com</b> (registered DMCA agent). Child safety &amp; CSAM prevention are technically embedded in all products (hash matching before publication). Maps: © OpenStreetMap contributors.',
 
     /* --- con.ax --- */
@@ -176,13 +176,13 @@
 
   /* Page <title> per language (German captured from the document itself). */
   var EN_TITLES = {
-    home: 'iMild — Three products. One vision.',
-    about: 'About — iMild',
-    brands: 'Our brands — iMild',
-    news: 'Newsroom — iMild',
-    jobs: 'Careers — iMild',
-    contact: 'Contact — iMild',
-    legal: 'Legal — iMild',
+    home: 'iMild.com — Three products. One vision.',
+    about: 'About — iMild.com',
+    brands: 'Our brands — iMild.com',
+    news: 'Newsroom — iMild.com',
+    jobs: 'Careers — iMild.com',
+    contact: 'Contact — iMild.com',
+    legal: 'Legal — iMild.com',
     conax: 'con.ax — The world is your timeline',
     smejj: 'smejj — Software that builds itself',
     smyst: 'smyst — Your knowledge. Forever.'
