@@ -10,7 +10,8 @@
     "legal": "Legal — iMild.com",
     "conax": "con.ax — The world is your timeline",
     "smejj": "smejj — Software that builds itself",
-    "smyst": "smyst — Your knowledge. Forever."
+    "smyst": "smyst — Your knowledge. Forever.",
+    "login": "Sign in — iMild.com"
   },
   "strings": {
     "nav.home": "Home",
@@ -28,7 +29,6 @@
     "footer.privacy": "Privacy",
     "footer.copy": "© 2026 iMild LLC · Oakland, CA · 51 languages 🌍",
     "brand.byline": "an <b>iMild.com</b> company ↗",
-
     "home.stamp": "Est. 2026 · Silicon Valley",
     "home.h1": "Three products.<br><em>One vision.</em>",
     "home.lead": "iMild.com builds technology that connects people, develops software autonomously and makes knowledge immortal — in 51 languages, for the whole world.",
@@ -43,7 +43,6 @@
     "home.kpi1": "Languages",
     "home.kpi2": "Automation",
     "home.kpi3": "Infrastructure costs",
-
     "about.stamp": "Our mission",
     "about.h1": "Technology that<br><em>belongs to everyone.</em>",
     "about.lead": "iMild.com was founded on a simple conviction: great technology does not need big corporate structures — it needs clear ideas, automation and honesty.",
@@ -58,7 +57,6 @@
     "about.tl.2": "con.ax launches as the first product — social networking with maps",
     "about.tl.3": "smejj 1.0 — our own AI model enters the verification pipeline",
     "about.tl.4": "smyst opens its beta — the first 1,000 digital twins",
-
     "brands.stamp": "The iMild.com family",
     "brands.h1": "Our <em>brands.</em>",
     "brands.lead": "Three independent products, one shared foundation: shared infrastructure, one login, one design system — and the iMild.com values.",
@@ -71,7 +69,6 @@
     "brands.smyst.tag": "Digital AI Twins",
     "brands.smyst.p": "The platform for <b style=\"color:#a8dcfb;\">digital AI twins</b>. Create a personalised AI likeness of yourself — fed by your documents, media and knowledge. For families, teams and posterity.",
     "brands.cta3": "Visit landing page →",
-
     "news.stamp": "Press &amp; news",
     "news.h1": "News<em>room.</em>",
     "news.1.t": "con.ax opens the world map: beta launches in 12 countries",
@@ -88,7 +85,6 @@
     "news.4.d": "June 18, 2026",
     "news.press": "Press contact: <b style=\"color:#6db5ff;\" class=\"em\" data-u=\"p\"></b> · Press kit &amp; logos for download",
     "news.presskit": "Press kit ↓",
-
     "jobs.stamp": "We are hiring",
     "jobs.h1": "Build the future.<br><em>With us.</em>",
     "jobs.lead": "iMild.com is a startup on the rise — and we are strengthening the teams of all three portals: <b>con.ax</b>, <b>smejj</b> and <b>smyst</b>. We are looking for people who want to join early, take ownership and grow big with us.",
@@ -112,7 +108,6 @@
     "jobs.kpi2.v": "Almost none",
     "jobs.kpi3.k": "Bureaucracy",
     "jobs.kpi3.v": "Automated",
-
     "invest.stamp": "Investor Relations",
     "invest.h1": "Invest in<br><em>three portals.</em>",
     "invest.lead": "iMild.com is building three global platforms on one shared foundation: <b>con.ax</b> (social networking), <b>smejj</b> (AI coding OS) and <b>smyst</b> (digital AI twins). We are looking for investors and strategic partners to scale this vision with us.",
@@ -140,7 +135,6 @@
     "invest.transp.t": "Our transparency promise",
     "invest.transp.p": "Every partner gets a personal partner portal with a full overview — like a bank account for your investment: where your capital went, how your stake develops, quarterly reports with plus/minus, and at year-end the clear choice — pay out your profit or reinvest it. The partner portal with registration and wallet overview is under construction; until then we serve every partner personally with the same reports by email.",
     "invest.note": "Note: this page is an invitation to talk, not a public offering of securities or investments. Participations are made exclusively on the basis of individual agreements and applicable regulations (incl. SEC/USA, EU).",
-
     "contact.stamp": "Say hello",
     "contact.h1": "Con<em>tact.</em>",
     "contact.lead": "Press, partnerships, support or simply a good idea — we read everything. Usually answered in &lt; 24 hours.",
@@ -156,7 +150,6 @@
     "contact.f.msg": "Message",
     "contact.f.msg.ph": "Write to us…",
     "contact.f.send": "Send message",
-
     "legal.stamp": "Legal matters",
     "legal.h1": "Le<em>gal.</em>",
     "legal.f1.t": "Imprint",
@@ -166,7 +159,6 @@
     "legal.f3.t": "Terms of Service",
     "legal.f3.p": "Valid for all iMild.com services: con.ax, smejj.com and smyst.com. One sign-up, one set of rules.",
     "legal.marks": "<b style=\"color:#6db5ff;\">Trademarks &amp; rights:</b> iMild®, con.ax™, smejj™ and smyst™ are trademarks of iMild LLC — filed with USPTO &amp; EUIPO. DMCA notices to <b class=\"em\" data-u=\"i\"></b> (registered DMCA agent). Child safety &amp; CSAM prevention are technically embedded in all products (hash matching before publication). Maps: © OpenStreetMap contributors.",
-
     "conax.h1": "The world is your<br><em style=\"color:#b98af5;\">timeline.</em>",
     "conax.lead": "con.ax is the social network that puts the world on a map — with five areas in one app: <b>Clips</b>, <b>Market</b>, <b>Chat</b>, <b>Map</b> and <b>Encounters</b>. Worldwide, free, honest.",
     "conax.cta1": "Visit con.ax ↗",
@@ -184,7 +176,6 @@
     "conax.f4.p": "Who is around you right now? The live map shows friends, events, stories and listings nearby — as precise or as private as you choose.",
     "conax.f5.t": "Encounters",
     "conax.f5.p": "Where and when did your paths cross? con.ax shows you encounters in detail — place, time, moment — and helps you rediscover missed connections. Always with mutual consent only.",
-
     "smejj.h1": "Software that<br><em style=\"color:#02FDFD;\">builds itself.</em>",
     "smejj.lead": "smejj is the autonomous coding operating system: you describe the task, smejj plans, writes, tests and verifies — with its own model and full cost control.",
     "smejj.cta1": "Get early access",
@@ -192,7 +183,6 @@
     "smejj.f1.p": "Every task becomes a capsule: goal, context, tests, budget — before a single line of code is written.",
     "smejj.f2.p": "Nothing gets merged that has not been proven test-driven. Strict. Always.",
     "smejj.f3.p": "smejj 1.0 at the core, other models as fallback — free tiers first, your keys, your costs: often $0.",
-
     "smyst.h1": "Your knowledge.<br><em style=\"color:#4FC3F7;\">Forever.</em>",
     "smyst.lead": "smyst creates your digital AI twin — trained on your documents, photos, voices and stories. It answers like you, remembers like you and remains: for your family, your team, posterity.",
     "smyst.cta1": "Create your twin",
@@ -205,6 +195,51 @@
     "smyst.f2.t": "Family &amp; team",
     "smyst.f2.p": "As a living family archive or as a knowledge twin for your company.",
     "smyst.f3.t": "Private by design",
-    "smyst.f3.p": "End-to-end encrypted. You decide who may talk to your twin — today and afterwards."
+    "smyst.f3.p": "End-to-end encrypted. You decide who may talk to your twin — today and afterwards.",
+    "login.title": "Welcome to iMild.com",
+    "login.subtitle": "Sign in or create an account in seconds.",
+    "login.tab.signin": "Sign in",
+    "login.tab.signup": "Register",
+    "login.field.name": "Display name",
+    "login.ph.name": "What should we call you?",
+    "login.field.email": "Email address",
+    "login.ph.email": "you@example.com",
+    "login.field.password": "Password",
+    "login.ph.password": "At least 8 characters",
+    "login.hint.password": "At least 8 characters. Tip: the longer, the safer.",
+    "login.forgot": "Forgot password?",
+    "login.cta.signin": "Sign in",
+    "login.noaccount": "No account yet?",
+    "login.haveaccount": "Already have an account?",
+    "login.switch.signup": "Create one now",
+    "login.switch.signin": "Sign in now",
+    "login.or": "or continue with",
+    "login.provider.google": "Continue with Google",
+    "login.provider.apple": "Continue with Apple",
+    "login.provider.github": "Continue with GitHub",
+    "login.provider.gitlab": "Continue with GitLab",
+    "login.provider.facebook": "Continue with Facebook",
+    "login.provider.microsoft": "Continue with Microsoft",
+    "login.provider.passkey": "Passkey / Biometrics",
+    "login.provider.magic": "One-time code via email / SMS",
+    "login.soon": "Soon",
+    "login.more": "More sign-in options",
+    "login.legal.pre": "By signing in you accept our",
+    "login.legal.terms": "Terms of Service",
+    "login.legal.and": "and",
+    "login.legal.privacy": "Privacy Policy",
+    "login.back": "← Back to home",
+    "login.js.soon": "This sign-in option is coming soon.",
+    "login.js.errEmail": "Please enter a valid email address.",
+    "login.js.errPassword": "Your password must be at least 8 characters.",
+    "login.js.errName": "Please enter a display name.",
+    "login.js.errGeneric": "Something went wrong. Please try again.",
+    "login.js.errNetwork": "Connection failed. Please check your internet connection.",
+    "login.js.errForgotEmail": "Please enter your email address first.",
+    "login.js.okForgot": "If an account exists, we have sent you a link.",
+    "login.js.okSignedin": "Signed in! Redirecting …",
+    "login.js.okRegistered": "Account created! Redirecting …",
+    "login.js.showPw": "Show password",
+    "login.js.hidePw": "Hide password"
   }
 }
