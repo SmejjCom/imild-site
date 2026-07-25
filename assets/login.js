@@ -11,8 +11,12 @@
   var CFG = window.IMILD_AUTH || {};
   var API = (CFG.apiBase || '').replace(/\/+$/, '');
 
-  /* Providers that are live today. Everything else is shown as "soon". */
-  var READY = { google: 1, github: 1, gitlab: 1 };
+  /* Providers that are live today. Everything else is shown as "soon".
+     Empty on purpose: the control server exposes no /auth/:provider routes yet
+     (GET /auth/google|github|gitlab -> 404), so marking them ready sent users
+     into a dead-end 404. Re-add a provider here the same day its backend route
+     and client secrets go live — the markup needs data-status="ready" too. */
+  var READY = {};
 
   var card    = document.querySelector('.auth-card');
   var form    = document.getElementById('auth-form');
