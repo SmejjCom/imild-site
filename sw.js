@@ -5,7 +5,7 @@
  *   - never caches non-GET or cross-origin requests
  * Bump CACHE to ship a new version; old caches are purged on activate.
  */
-const CACHE = 'imild-v1';
+const CACHE = 'imild-v2';
 const CORE = [
   '/',
   '/index.html',
